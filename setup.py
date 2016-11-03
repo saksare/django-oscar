@@ -26,7 +26,7 @@ setup(name='django-oscar',
       include_package_data=True,
       install_requires=[
           'django>=1.4',
-          'PIL==1.1.7',
+          'Pillow==2.5.1',
           'South==0.7.3',
           'django-extra-views==0.2.0',
           'django-haystack==2.0.0-beta',
